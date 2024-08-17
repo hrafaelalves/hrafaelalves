@@ -26,10 +26,11 @@
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs" />
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress" />
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript" />
+  <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" />
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" />
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" />
   <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" />
-  <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySql" />
+  <img align="center" alt="Hugo Rafael Alves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" />
 </div>
 
 ##
