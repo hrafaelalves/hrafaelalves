@@ -32,3 +32,5 @@
     <img height="30em" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="My Portifolio"/>
    </a>
 </div>
+
+<!-- ![Snake commit animation](https://github.com/hrafaelalves/hrafaelalves/blob/output/github-contribution-grid-snake.svg) -->
