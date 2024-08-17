@@ -1,7 +1,7 @@
 ## Hi there, I am Hugo Rafael Alves 👋
 
-- 🔭 I’m currently working as a Front-end developer
-- 🌱 I’m currently learning and improving my Next.js skills
+- 🔭 I'm a front-end developer with over 10 years of experience
+- 🌱 Currently diving into React.js and expanding my skills
 - 📫 How to reach me: hugo.rafael.alves@gmail.com
 
 <div>
