@@ -1,7 +1,7 @@
-## Hi there, I am Hugo Rafael Alves 👋
+## Hi there, I'm Hugo Rafael Alves 👋
 
-- 🔭 I'm a front-end developer with over 10 years of experience
-- 🌱 Currently diving into React.js and expanding my skills
+- 🔭 Senior Front-end Developer at AB InBev with 10+ years of experience.
+- 🌱 Expert in JavaScript, TypeScript, React, Next.js, Node.js, and NestJS.
 - 📫 How to reach me: hugo.rafael.alves@gmail.com
 
 <div>
