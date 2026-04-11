@@ -24,11 +24,11 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" />   
 </div>
 
-##
+<!-- ##
 <br>
 <div>
   <a href="https://github.com/hrafaelalves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrafaelalves&show_icons=true&theme=dark" /></a>&nbsp;&nbsp;<a href="https://github.com/hrafaelalves"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrafaelalves&layout=compact&theme=dark" /></a>  
 </div>
 
-<!-- ![Snake commit animation](https://github.com/hrafaelalves/hrafaelalves/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake commit animation](https://github.com/hrafaelalves/hrafaelalves/blob/output/github-contribution-grid-snake.svg) -->
